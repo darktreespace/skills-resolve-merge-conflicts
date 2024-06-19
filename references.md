@@ -1,1 +1,4 @@
-Some text to make conflict
+
+# References
+
+* octocat 1 😈
